@@ -157,8 +157,7 @@ public class MainFrame extends javax.swing.JFrame {
 
         jPanel4.add(jPanel2);
 
-        jPanel6.setBackground(new java.awt.Color(8, 63, 51));
-        jPanel6.setBorder(javax.swing.BorderFactory.createMatteBorder(0, 3, 0, 0, new java.awt.Color(42, 231, 114)));
+        jPanel6.setBackground(new java.awt.Color(5, 51, 47));
         jPanel6.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         jPanel6.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseReleased(java.awt.event.MouseEvent evt) {
@@ -167,7 +166,7 @@ public class MainFrame extends javax.swing.JFrame {
         });
 
         jLabel4.setFont(new java.awt.Font("Yu Gothic UI Semibold", 1, 14)); // NOI18N
-        jLabel4.setForeground(new java.awt.Color(42, 231, 114));
+        jLabel4.setForeground(new java.awt.Color(219, 219, 219));
         jLabel4.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
         jLabel4.setText("Products");
 

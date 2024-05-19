@@ -13,7 +13,7 @@ public class MySQL {
 
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/cctv_db", "root", "*****");
+            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/cctv_db", "root", "DsDs21131%#");
         } catch (Exception e) {
             e.printStackTrace();
         }
