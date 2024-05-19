@@ -495,7 +495,7 @@ public class MainFrame extends javax.swing.JFrame {
         JPanel panel = (JPanel) evt.getSource();
         JLabel label = (JLabel) panel.getComponent(0);
         clearAllButtons();
-        setDecoratedButton(panel, label);
+        setDecoratedButton(panel, label); 
     }
 
     private void clearAllButtons() {
