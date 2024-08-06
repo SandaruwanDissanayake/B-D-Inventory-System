@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.21.2.final using JasperReports Library version 6.21.2-8434a0bd7c3bbc37cbf916f2968d35e4b165821a  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="barcord" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="6de31dfa-b827-44ed-bd7d-e1dc9c86c6ad">
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="One Empty Record"/>
+	<parameter name="barcodeNumber" class="java.lang.String"/>
+	<parameter name="producttitle" class="java.lang.String"/>
+	<queryString>
+		<![CDATA[]]>
+	</queryString>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="68" splitType="Stretch">
+			<textField>
+				<reportElement x="124" y="0" width="136" height="30" uuid="4f04d418-ef50-4302-a45e-f39a97b85bb2"/>
+				<textElement verticalAlignment="Middle">
+					<font size="12" isBold="true"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{barcodeNumber}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="0" y="0" width="124" height="30" uuid="785f6eb2-5125-4423-bbd2-3c127afceab5"/>
+				<textElement verticalAlignment="Middle">
+					<font size="14" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Barcode Number :]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="30" width="124" height="30" uuid="103bb1b3-e8a3-4642-ba5a-af5b37db6227"/>
+				<textElement verticalAlignment="Middle">
+					<font size="14" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Product Title       :]]></text>
+			</staticText>
+			<textField>
+				<reportElement x="124" y="30" width="100" height="30" uuid="87b9e57a-42e5-4a0c-8c52-f0b5fdc5d0a4"/>
+				<textElement verticalAlignment="Middle">
+					<font size="12" isBold="true"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{producttitle}]]></textFieldExpression>
+			</textField>
+		</band>
+	</title>
+	<pageHeader>
+		<band splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band splitType="Stretch"/>
+	</columnHeader>
+	<detail>
+		<band height="545" splitType="Stretch">
+			<rectangle>
+				<reportElement x="0" y="0" width="180" height="90" uuid="e398035c-e87b-4bbb-84df-27b80d4831ff"/>
+			</rectangle>
+			<rectangle>
+				<reportElement x="180" y="0" width="200" height="90" uuid="37fc3757-6cfb-40e7-a655-232ef97e3e62"/>
+			</rectangle>
+			<rectangle>
+				<reportElement x="380" y="0" width="170" height="90" uuid="81fdee56-a8c9-42e6-9e02-9c773547b089"/>
+			</rectangle>
+			<componentElement>
+				<reportElement x="230" y="25" width="110" height="41" uuid="0e8334ea-2bab-4a4e-91a5-ee2fb8177da0"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+			<componentElement>
+				<reportElement x="30" y="25" width="110" height="41" uuid="c86bf5f1-9dd5-400a-81ac-126b839dd4d8"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+			<componentElement>
+				<reportElement x="415" y="24" width="110" height="41" uuid="818979c7-0b35-46aa-9dae-1ca7a67207f1"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+			<rectangle>
+				<reportElement x="0" y="90" width="180" height="90" uuid="20a8baa7-56b9-4916-86b6-4143a29007c0"/>
+			</rectangle>
+			<rectangle>
+				<reportElement x="180" y="90" width="200" height="90" uuid="e9f6bd48-c51f-43bf-9066-b31010106e95"/>
+			</rectangle>
+			<rectangle>
+				<reportElement x="380" y="90" width="170" height="90" uuid="cfc92812-2fa6-45d5-a547-4026eb5c79ac"/>
+			</rectangle>
+			<componentElement>
+				<reportElement x="230" y="115" width="110" height="41" uuid="b6161427-ba2e-478e-b586-ccd827b35594"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+			<componentElement>
+				<reportElement x="30" y="115" width="110" height="41" uuid="2812beb1-7ba8-4aeb-ab9f-083ece26396f"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+			<componentElement>
+				<reportElement x="415" y="114" width="110" height="41" uuid="9a817224-d6d5-436a-88bf-ebda5f37e596"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+			<rectangle>
+				<reportElement x="0" y="180" width="180" height="90" uuid="a6c68a13-5d4a-4634-9a86-684535d74127"/>
+			</rectangle>
+			<rectangle>
+				<reportElement x="180" y="180" width="200" height="90" uuid="d00bf43b-c33b-4f62-b0c0-a5c4356926b7"/>
+			</rectangle>
+			<rectangle>
+				<reportElement x="380" y="180" width="170" height="90" uuid="098733e2-79f5-4c9c-99b8-2ccf5aa43a35"/>
+			</rectangle>
+			<componentElement>
+				<reportElement x="230" y="205" width="110" height="41" uuid="53f91be2-cd62-48fc-9e16-e093dcbc8b74"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+			<componentElement>
+				<reportElement x="30" y="205" width="110" height="41" uuid="16b1cecd-291e-4e7a-8bcd-ef2a22f03029"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+			<componentElement>
+				<reportElement x="415" y="204" width="110" height="41" uuid="c0c364eb-70c6-406e-a79e-86586c3a7096"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+			<rectangle>
+				<reportElement x="0" y="270" width="180" height="90" uuid="45077802-30bf-486f-914d-7bec86e0383b"/>
+			</rectangle>
+			<rectangle>
+				<reportElement x="180" y="270" width="200" height="90" uuid="2b8a5441-23ac-4c64-94f0-d3baa262c12b"/>
+			</rectangle>
+			<rectangle>
+				<reportElement x="380" y="270" width="170" height="90" uuid="f2a2b3db-18c5-4e00-afbd-0c97ba59b3fd"/>
+			</rectangle>
+			<componentElement>
+				<reportElement x="230" y="295" width="110" height="41" uuid="84802d78-b385-4639-9af4-2333a52b1ed0"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+			<componentElement>
+				<reportElement x="30" y="295" width="110" height="41" uuid="0a6a2a3e-2753-4580-b053-9b2a659bb560"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+			<componentElement>
+				<reportElement x="415" y="294" width="110" height="41" uuid="62fb3a9f-fcac-4c6e-9c59-5180ca9b21a5"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+			<rectangle>
+				<reportElement x="0" y="359" width="180" height="90" uuid="54d95ef8-e51f-4598-a88b-74baa6104e67"/>
+			</rectangle>
+			<rectangle>
+				<reportElement x="180" y="359" width="200" height="90" uuid="4a369bbf-e30f-4f7e-948b-f33f1906a264"/>
+			</rectangle>
+			<rectangle>
+				<reportElement x="380" y="359" width="170" height="90" uuid="131c17b0-6783-4e1b-b62e-9e8cd624dc1f"/>
+			</rectangle>
+			<componentElement>
+				<reportElement x="230" y="384" width="110" height="41" uuid="3aba7297-eccc-4e70-8c51-dc370e50bf2b"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+			<componentElement>
+				<reportElement x="30" y="384" width="110" height="41" uuid="916b0df3-0e00-4de0-ba3f-dd43773343a0"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+			<componentElement>
+				<reportElement x="415" y="383" width="110" height="41" uuid="7d5f0c74-d108-40d9-ac96-e6a17298152a"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+			<rectangle>
+				<reportElement x="0" y="449" width="180" height="90" uuid="e4f8fbc0-976f-452a-9b82-a5166249cde2"/>
+			</rectangle>
+			<rectangle>
+				<reportElement x="180" y="449" width="200" height="90" uuid="f6274d77-8171-4d34-926f-6de0e171b52e"/>
+			</rectangle>
+			<rectangle>
+				<reportElement x="380" y="449" width="170" height="90" uuid="a5139f27-e296-4a64-9878-f0f022fbc570"/>
+			</rectangle>
+			<componentElement>
+				<reportElement x="230" y="474" width="110" height="41" uuid="1ceb46f7-2ab8-4be6-95f0-67cff82a2a60"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+			<componentElement>
+				<reportElement x="30" y="474" width="110" height="41" uuid="ef8cf8c3-e5dc-484f-8c6f-b33760db0d14"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+			<componentElement>
+				<reportElement x="415" y="473" width="110" height="41" uuid="f65e1dfe-2a4d-4997-8beb-88f82c859fad"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+		</band>
+	</detail>
+	<columnFooter>
+		<band splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="180" splitType="Stretch">
+			<rectangle>
+				<reportElement x="0" y="-7" width="180" height="90" uuid="d5867aa0-193c-4fc7-810a-c6b9c080b98d"/>
+			</rectangle>
+			<rectangle>
+				<reportElement x="180" y="-7" width="200" height="90" uuid="7a826359-80d1-4bbc-aca9-b986fb4a0e0c"/>
+			</rectangle>
+			<rectangle>
+				<reportElement x="380" y="-7" width="170" height="90" uuid="ef2eee2f-56f6-4fb7-8173-aea56042843b"/>
+			</rectangle>
+			<componentElement>
+				<reportElement x="230" y="18" width="110" height="41" uuid="9a596d6c-ca2f-431a-ba99-feef967cbcbc"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+			<componentElement>
+				<reportElement x="30" y="18" width="110" height="41" uuid="d377b775-6637-4fda-8835-1ec44e4e8dab"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+			<componentElement>
+				<reportElement x="415" y="17" width="110" height="41" uuid="fef5c534-baea-424c-ad2b-1ac06564dcee"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+			<rectangle>
+				<reportElement x="0" y="83" width="180" height="90" uuid="7a911fbf-c638-43a2-9036-b494ff1092b2"/>
+			</rectangle>
+			<rectangle>
+				<reportElement x="180" y="83" width="200" height="90" uuid="3a5a914c-361d-4d0b-8b1d-caa85c28d2f0"/>
+			</rectangle>
+			<rectangle>
+				<reportElement x="380" y="83" width="170" height="90" uuid="45a96af3-50c8-484c-8a85-856a004d04bf"/>
+			</rectangle>
+			<componentElement>
+				<reportElement x="230" y="108" width="110" height="41" uuid="361f17d3-2cb6-4f42-90fd-d2f099a331b3"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+			<componentElement>
+				<reportElement x="30" y="108" width="110" height="41" uuid="a56eeafa-dac8-464f-a215-5419c181d103"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+			<componentElement>
+				<reportElement x="415" y="107" width="110" height="41" uuid="497b4ed0-8877-49d1-a079-6a341175d831"/>
+				<jr:Code39 xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<jr:codeExpression><![CDATA[$P{barcodeNumber}]]></jr:codeExpression>
+				</jr:Code39>
+			</componentElement>
+		</band>
+	</summary>
+</jasperReport>
