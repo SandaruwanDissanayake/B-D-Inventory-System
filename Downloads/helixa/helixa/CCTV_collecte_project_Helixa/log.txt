@@ -1,0 +1,5106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-16T05:54:26.853808100Z</date>
+  <millis>1718517266853</millis>
+  <nanos>808100</nanos>
+  <sequence>2</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.Invoice</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>25</thread>
+  <message>Access denied for user 'root'@'localhost' (using password: YES)</message>
+</record>
+<record>
+  <date>2024-06-16T05:54:26.882806200Z</date>
+  <millis>1718517266882</millis>
+  <nanos>806200</nanos>
+  <sequence>3</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.Invoice</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>25</thread>
+  <message>Incorrect integer value: '' for column 'invoice_id' at row 1</message>
+</record>
+<record>
+  <date>2024-06-16T05:54:27.489385400Z</date>
+  <millis>1718517267489</millis>
+  <nanos>385400</nanos>
+  <sequence>4</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.Invoice</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>25</thread>
+  <message>Incorrect integer value: '' for column 'invoice_id' at row 1</message>
+</record>
+<record>
+  <date>2024-06-16T05:54:27.557172Z</date>
+  <millis>1718517267557</millis>
+  <nanos>172000</nanos>
+  <sequence>5</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.Invoice</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>25</thread>
+  <message>Incorrect integer value: '' for column 'invoice_id' at row 1</message>
+</record>
+<record>
+  <date>2024-06-16T05:54:27.651370600Z</date>
+  <millis>1718517267651</millis>
+  <nanos>370600</nanos>
+  <sequence>6</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.Invoice</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>25</thread>
+  <message>Incorrect integer value: '' for column 'invoice_id' at row 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-16T06:09:18.938093500Z</date>
+  <millis>1718518158938</millis>
+  <nanos>93500</nanos>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.ShowInvoiceDetails</class>
+  <method>getInsertID</method>
+  <thread>25</thread>
+  <message>Access denied for user 'root'@'localhost' (using password: YES)</message>
+</record>
+<record>
+  <date>2024-06-16T06:09:18.995268Z</date>
+  <millis>1718518158995</millis>
+  <nanos>268000</nanos>
+  <sequence>2</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.ShowInvoiceDetails</class>
+  <method>getInsertID</method>
+  <thread>25</thread>
+  <message>Access denied for user 'root'@'localhost' (using password: YES)</message>
+</record>
+<record>
+  <date>2024-06-16T06:09:19.038043500Z</date>
+  <millis>1718518159038</millis>
+  <nanos>43500</nanos>
+  <sequence>3</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.ShowInvoiceDetails</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>25</thread>
+  <message>Cannot add or update a child row: a foreign key constraint fails (`cctv_shop_db`.`loan_installments_has_check`, CONSTRAINT `fk_check_has_loan_installments_loan_installments1` FOREIGN KEY (`loan_installments_id`) REFERENCES `loan_installments` (`id`))</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-16T06:13:51.828275200Z</date>
+  <millis>1718518431828</millis>
+  <nanos>275200</nanos>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.ReturnStock</class>
+  <method>loadTable</method>
+  <thread>25</thread>
+  <message>Unknown column 'return_product.invoice_item_id' in 'on clause'</message>
+</record>
+<record>
+  <date>2024-06-16T06:19:08.008754700Z</date>
+  <millis>1718518748008</millis>
+  <nanos>754700</nanos>
+  <sequence>2</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.ChangeProducts</class>
+  <method>jButton2ActionPerformed</method>
+  <thread>25</thread>
+  <message>Cannot add or update a child row: a foreign key constraint fails (`cctv_shop_db`.`product_sn`, CONSTRAINT `fk_product_sn_product_sn_status1` FOREIGN KEY (`product_sn_status_id`) REFERENCES `product_sn_status` (`id`))</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-16T06:31:02.405103500Z</date>
+  <millis>1718519462405</millis>
+  <nanos>103500</nanos>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.ChangeProducts</class>
+  <method>jButton2ActionPerformed</method>
+  <thread>25</thread>
+  <message>Cannot add or update a child row: a foreign key constraint fails (`cctv_shop_db`.`product_sn`, CONSTRAINT `fk_product_sn_product_sn_status1` FOREIGN KEY (`product_sn_status_id`) REFERENCES `product_sn_status` (`id`))</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-16T06:44:15.487265600Z</date>
+  <millis>1718520255487</millis>
+  <nanos>265600</nanos>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.ChangeProducts</class>
+  <method>jButton2ActionPerformed</method>
+  <thread>25</thread>
+  <message>Cannot add or update a child row: a foreign key constraint fails (`cctv_shop_db`.`product_sn`, CONSTRAINT `fk_product_sn_product_sn_status1` FOREIGN KEY (`product_sn_status_id`) REFERENCES `product_sn_status` (`id`))</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-16T11:38:10.613209200Z</date>
+  <millis>1718537890613</millis>
+  <nanos>209200</nanos>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:40:19.391400500Z</date>
+  <millis>1718538019391</millis>
+  <nanos>400500</nanos>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:41:43.443599900Z</date>
+  <millis>1718538103443</millis>
+  <nanos>599900</nanos>
+  <sequence>2</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:01.173678100Z</date>
+  <millis>1718538361173</millis>
+  <nanos>678100</nanos>
+  <sequence>3</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:01.175676500Z</date>
+  <millis>1718538361175</millis>
+  <nanos>676500</nanos>
+  <sequence>4</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:01.177758600Z</date>
+  <millis>1718538361177</millis>
+  <nanos>758600</nanos>
+  <sequence>5</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:01.179605900Z</date>
+  <millis>1718538361179</millis>
+  <nanos>605900</nanos>
+  <sequence>6</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:01.181425800Z</date>
+  <millis>1718538361181</millis>
+  <nanos>425800</nanos>
+  <sequence>7</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:01.183230800Z</date>
+  <millis>1718538361183</millis>
+  <nanos>230800</nanos>
+  <sequence>8</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:01.183230800Z</date>
+  <millis>1718538361183</millis>
+  <nanos>230800</nanos>
+  <sequence>9</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:01.188318600Z</date>
+  <millis>1718538361188</millis>
+  <nanos>318600</nanos>
+  <sequence>10</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:03.267105500Z</date>
+  <millis>1718538363267</millis>
+  <nanos>105500</nanos>
+  <sequence>11</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:03.274379Z</date>
+  <millis>1718538363274</millis>
+  <nanos>379000</nanos>
+  <sequence>12</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:03.274379Z</date>
+  <millis>1718538363274</millis>
+  <nanos>379000</nanos>
+  <sequence>13</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:03.278348Z</date>
+  <millis>1718538363278</millis>
+  <nanos>348000</nanos>
+  <sequence>14</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:03.279460500Z</date>
+  <millis>1718538363279</millis>
+  <nanos>460500</nanos>
+  <sequence>15</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:03.282966Z</date>
+  <millis>1718538363282</millis>
+  <nanos>966000</nanos>
+  <sequence>16</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:03.285161800Z</date>
+  <millis>1718538363285</millis>
+  <nanos>161800</nanos>
+  <sequence>17</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:03.285161800Z</date>
+  <millis>1718538363285</millis>
+  <nanos>161800</nanos>
+  <sequence>18</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:15.689079100Z</date>
+  <millis>1718538375689</millis>
+  <nanos>79100</nanos>
+  <sequence>19</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:15.693662500Z</date>
+  <millis>1718538375693</millis>
+  <nanos>662500</nanos>
+  <sequence>20</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:15.693662500Z</date>
+  <millis>1718538375693</millis>
+  <nanos>662500</nanos>
+  <sequence>21</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:15.697372600Z</date>
+  <millis>1718538375697</millis>
+  <nanos>372600</nanos>
+  <sequence>22</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:15.698654700Z</date>
+  <millis>1718538375698</millis>
+  <nanos>654700</nanos>
+  <sequence>23</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:15.698654700Z</date>
+  <millis>1718538375698</millis>
+  <nanos>654700</nanos>
+  <sequence>24</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:15.702722900Z</date>
+  <millis>1718538375702</millis>
+  <nanos>722900</nanos>
+  <sequence>25</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:46:15.705383300Z</date>
+  <millis>1718538375705</millis>
+  <nanos>383300</nanos>
+  <sequence>26</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:55:46.082961500Z</date>
+  <millis>1718538946082</millis>
+  <nanos>961500</nanos>
+  <sequence>27</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:55:46.085634700Z</date>
+  <millis>1718538946085</millis>
+  <nanos>634700</nanos>
+  <sequence>28</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:55:46.086858400Z</date>
+  <millis>1718538946086</millis>
+  <nanos>858400</nanos>
+  <sequence>29</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:55:46.086858400Z</date>
+  <millis>1718538946086</millis>
+  <nanos>858400</nanos>
+  <sequence>30</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:55:46.090728800Z</date>
+  <millis>1718538946090</millis>
+  <nanos>728800</nanos>
+  <sequence>31</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:55:46.092549800Z</date>
+  <millis>1718538946092</millis>
+  <nanos>549800</nanos>
+  <sequence>32</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:55:46.093867400Z</date>
+  <millis>1718538946093</millis>
+  <nanos>867400</nanos>
+  <sequence>33</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:55:46.096372700Z</date>
+  <millis>1718538946096</millis>
+  <nanos>372700</nanos>
+  <sequence>34</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:56:00.310924900Z</date>
+  <millis>1718538960310</millis>
+  <nanos>924900</nanos>
+  <sequence>35</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:56:00.312327200Z</date>
+  <millis>1718538960312</millis>
+  <nanos>327200</nanos>
+  <sequence>36</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:56:00.312327200Z</date>
+  <millis>1718538960312</millis>
+  <nanos>327200</nanos>
+  <sequence>37</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:56:00.312327200Z</date>
+  <millis>1718538960312</millis>
+  <nanos>327200</nanos>
+  <sequence>38</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:56:00.319280200Z</date>
+  <millis>1718538960319</millis>
+  <nanos>280200</nanos>
+  <sequence>39</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:56:00.319280200Z</date>
+  <millis>1718538960319</millis>
+  <nanos>280200</nanos>
+  <sequence>40</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:56:00.319280200Z</date>
+  <millis>1718538960319</millis>
+  <nanos>280200</nanos>
+  <sequence>41</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:56:00.325526800Z</date>
+  <millis>1718538960325</millis>
+  <nanos>526800</nanos>
+  <sequence>42</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:56:42.619965600Z</date>
+  <millis>1718539002619</millis>
+  <nanos>965600</nanos>
+  <sequence>43</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:56:42.622157700Z</date>
+  <millis>1718539002622</millis>
+  <nanos>157700</nanos>
+  <sequence>44</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:56:42.623114100Z</date>
+  <millis>1718539002623</millis>
+  <nanos>114100</nanos>
+  <sequence>45</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:56:42.623114100Z</date>
+  <millis>1718539002623</millis>
+  <nanos>114100</nanos>
+  <sequence>46</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:56:43.770403900Z</date>
+  <millis>1718539003770</millis>
+  <nanos>403900</nanos>
+  <sequence>47</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:56:43.770403900Z</date>
+  <millis>1718539003770</millis>
+  <nanos>403900</nanos>
+  <sequence>48</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:56:43.770403900Z</date>
+  <millis>1718539003770</millis>
+  <nanos>403900</nanos>
+  <sequence>49</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:56:43.782938300Z</date>
+  <millis>1718539003782</millis>
+  <nanos>938300</nanos>
+  <sequence>50</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:56:43.786166400Z</date>
+  <millis>1718539003786</millis>
+  <nanos>166400</nanos>
+  <sequence>51</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:56:43.787976100Z</date>
+  <millis>1718539003787</millis>
+  <nanos>976100</nanos>
+  <sequence>52</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:56:43.789874800Z</date>
+  <millis>1718539003789</millis>
+  <nanos>874800</nanos>
+  <sequence>53</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:56:43.791921100Z</date>
+  <millis>1718539003791</millis>
+  <nanos>921100</nanos>
+  <sequence>54</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:26.983007300Z</date>
+  <millis>1718539106983</millis>
+  <nanos>7300</nanos>
+  <sequence>55</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:26.988252900Z</date>
+  <millis>1718539106988</millis>
+  <nanos>252900</nanos>
+  <sequence>56</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:26.990031300Z</date>
+  <millis>1718539106990</millis>
+  <nanos>31300</nanos>
+  <sequence>57</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:26.991133Z</date>
+  <millis>1718539106991</millis>
+  <nanos>133000</nanos>
+  <sequence>58</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:26.993774400Z</date>
+  <millis>1718539106993</millis>
+  <nanos>774400</nanos>
+  <sequence>59</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:26.995885400Z</date>
+  <millis>1718539106995</millis>
+  <nanos>885400</nanos>
+  <sequence>60</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:26.998889400Z</date>
+  <millis>1718539106998</millis>
+  <nanos>889400</nanos>
+  <sequence>61</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:27.000393Z</date>
+  <millis>1718539107000</millis>
+  <nanos>393000</nanos>
+  <sequence>62</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:28.303671400Z</date>
+  <millis>1718539108303</millis>
+  <nanos>671400</nanos>
+  <sequence>63</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:28.308879800Z</date>
+  <millis>1718539108308</millis>
+  <nanos>879800</nanos>
+  <sequence>64</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:28.310099600Z</date>
+  <millis>1718539108310</millis>
+  <nanos>99600</nanos>
+  <sequence>65</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:28.310099600Z</date>
+  <millis>1718539108310</millis>
+  <nanos>99600</nanos>
+  <sequence>66</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:28.314618800Z</date>
+  <millis>1718539108314</millis>
+  <nanos>618800</nanos>
+  <sequence>67</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:28.315814100Z</date>
+  <millis>1718539108315</millis>
+  <nanos>814100</nanos>
+  <sequence>68</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:28.318320300Z</date>
+  <millis>1718539108318</millis>
+  <nanos>320300</nanos>
+  <sequence>69</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:28.318320300Z</date>
+  <millis>1718539108318</millis>
+  <nanos>320300</nanos>
+  <sequence>70</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:29.345004900Z</date>
+  <millis>1718539109345</millis>
+  <nanos>4900</nanos>
+  <sequence>71</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:29.352578100Z</date>
+  <millis>1718539109352</millis>
+  <nanos>578100</nanos>
+  <sequence>72</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:29.352578100Z</date>
+  <millis>1718539109352</millis>
+  <nanos>578100</nanos>
+  <sequence>73</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:29.355584200Z</date>
+  <millis>1718539109355</millis>
+  <nanos>584200</nanos>
+  <sequence>74</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:29.355584200Z</date>
+  <millis>1718539109355</millis>
+  <nanos>584200</nanos>
+  <sequence>75</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:29.355584200Z</date>
+  <millis>1718539109355</millis>
+  <nanos>584200</nanos>
+  <sequence>76</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:29.355584200Z</date>
+  <millis>1718539109355</millis>
+  <nanos>584200</nanos>
+  <sequence>77</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:29.355584200Z</date>
+  <millis>1718539109355</millis>
+  <nanos>584200</nanos>
+  <sequence>78</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:30.871591600Z</date>
+  <millis>1718539110871</millis>
+  <nanos>591600</nanos>
+  <sequence>79</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:30.884952900Z</date>
+  <millis>1718539110884</millis>
+  <nanos>952900</nanos>
+  <sequence>80</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:30.887459300Z</date>
+  <millis>1718539110887</millis>
+  <nanos>459300</nanos>
+  <sequence>81</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:30.887459300Z</date>
+  <millis>1718539110887</millis>
+  <nanos>459300</nanos>
+  <sequence>82</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:30.892109300Z</date>
+  <millis>1718539110892</millis>
+  <nanos>109300</nanos>
+  <sequence>83</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:30.892109300Z</date>
+  <millis>1718539110892</millis>
+  <nanos>109300</nanos>
+  <sequence>84</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:30.892109300Z</date>
+  <millis>1718539110892</millis>
+  <nanos>109300</nanos>
+  <sequence>85</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:58:30.892109300Z</date>
+  <millis>1718539110892</millis>
+  <nanos>109300</nanos>
+  <sequence>86</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:06.459360500Z</date>
+  <millis>1718539146459</millis>
+  <nanos>360500</nanos>
+  <sequence>87</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:06.463375400Z</date>
+  <millis>1718539146463</millis>
+  <nanos>375400</nanos>
+  <sequence>88</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:06.463375400Z</date>
+  <millis>1718539146463</millis>
+  <nanos>375400</nanos>
+  <sequence>89</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:06.463375400Z</date>
+  <millis>1718539146463</millis>
+  <nanos>375400</nanos>
+  <sequence>90</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:06.468846400Z</date>
+  <millis>1718539146468</millis>
+  <nanos>846400</nanos>
+  <sequence>91</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:06.472027500Z</date>
+  <millis>1718539146472</millis>
+  <nanos>27500</nanos>
+  <sequence>92</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:06.474003300Z</date>
+  <millis>1718539146474</millis>
+  <nanos>3300</nanos>
+  <sequence>93</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:06.475256700Z</date>
+  <millis>1718539146475</millis>
+  <nanos>256700</nanos>
+  <sequence>94</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:07.891950700Z</date>
+  <millis>1718539147891</millis>
+  <nanos>950700</nanos>
+  <sequence>95</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:07.891950700Z</date>
+  <millis>1718539147891</millis>
+  <nanos>950700</nanos>
+  <sequence>96</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:07.908775700Z</date>
+  <millis>1718539147908</millis>
+  <nanos>775700</nanos>
+  <sequence>97</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:07.910405100Z</date>
+  <millis>1718539147910</millis>
+  <nanos>405100</nanos>
+  <sequence>98</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:07.912847800Z</date>
+  <millis>1718539147912</millis>
+  <nanos>847800</nanos>
+  <sequence>99</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:07.914240600Z</date>
+  <millis>1718539147914</millis>
+  <nanos>240600</nanos>
+  <sequence>100</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:07.916052500Z</date>
+  <millis>1718539147916</millis>
+  <nanos>52500</nanos>
+  <sequence>101</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:07.916052500Z</date>
+  <millis>1718539147916</millis>
+  <nanos>52500</nanos>
+  <sequence>102</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:10.113029Z</date>
+  <millis>1718539150113</millis>
+  <nanos>29000</nanos>
+  <sequence>103</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:10.125537500Z</date>
+  <millis>1718539150125</millis>
+  <nanos>537500</nanos>
+  <sequence>104</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:10.128468100Z</date>
+  <millis>1718539150128</millis>
+  <nanos>468100</nanos>
+  <sequence>105</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:10.130507700Z</date>
+  <millis>1718539150130</millis>
+  <nanos>507700</nanos>
+  <sequence>106</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:10.131922200Z</date>
+  <millis>1718539150131</millis>
+  <nanos>922200</nanos>
+  <sequence>107</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:10.133790100Z</date>
+  <millis>1718539150133</millis>
+  <nanos>790100</nanos>
+  <sequence>108</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:10.133790100Z</date>
+  <millis>1718539150133</millis>
+  <nanos>790100</nanos>
+  <sequence>109</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T11:59:10.138438800Z</date>
+  <millis>1718539150138</millis>
+  <nanos>438800</nanos>
+  <sequence>110</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:34.095023900Z</date>
+  <millis>1718539414095</millis>
+  <nanos>23900</nanos>
+  <sequence>111</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:34.098058500Z</date>
+  <millis>1718539414098</millis>
+  <nanos>58500</nanos>
+  <sequence>112</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:34.099313400Z</date>
+  <millis>1718539414099</millis>
+  <nanos>313400</nanos>
+  <sequence>113</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:34.101318500Z</date>
+  <millis>1718539414101</millis>
+  <nanos>318500</nanos>
+  <sequence>114</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:34.101318500Z</date>
+  <millis>1718539414101</millis>
+  <nanos>318500</nanos>
+  <sequence>115</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:34.105395500Z</date>
+  <millis>1718539414105</millis>
+  <nanos>395500</nanos>
+  <sequence>116</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:34.105395500Z</date>
+  <millis>1718539414105</millis>
+  <nanos>395500</nanos>
+  <sequence>117</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:34.105395500Z</date>
+  <millis>1718539414105</millis>
+  <nanos>395500</nanos>
+  <sequence>118</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:35.375535700Z</date>
+  <millis>1718539415375</millis>
+  <nanos>535700</nanos>
+  <sequence>119</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:35.383172100Z</date>
+  <millis>1718539415383</millis>
+  <nanos>172100</nanos>
+  <sequence>120</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:35.384867800Z</date>
+  <millis>1718539415384</millis>
+  <nanos>867800</nanos>
+  <sequence>121</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:35.387132100Z</date>
+  <millis>1718539415387</millis>
+  <nanos>132100</nanos>
+  <sequence>122</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:35.388906300Z</date>
+  <millis>1718539415388</millis>
+  <nanos>906300</nanos>
+  <sequence>123</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:35.391279500Z</date>
+  <millis>1718539415391</millis>
+  <nanos>279500</nanos>
+  <sequence>124</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:35.391279500Z</date>
+  <millis>1718539415391</millis>
+  <nanos>279500</nanos>
+  <sequence>125</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:35.396048Z</date>
+  <millis>1718539415396</millis>
+  <nanos>48000</nanos>
+  <sequence>126</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:36.409201100Z</date>
+  <millis>1718539416409</millis>
+  <nanos>201100</nanos>
+  <sequence>127</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:36.409201100Z</date>
+  <millis>1718539416409</millis>
+  <nanos>201100</nanos>
+  <sequence>128</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:36.411935800Z</date>
+  <millis>1718539416411</millis>
+  <nanos>935800</nanos>
+  <sequence>129</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:36.414409600Z</date>
+  <millis>1718539416414</millis>
+  <nanos>409600</nanos>
+  <sequence>130</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:36.416819700Z</date>
+  <millis>1718539416416</millis>
+  <nanos>819700</nanos>
+  <sequence>131</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:36.418424800Z</date>
+  <millis>1718539416418</millis>
+  <nanos>424800</nanos>
+  <sequence>132</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:36.420135600Z</date>
+  <millis>1718539416420</millis>
+  <nanos>135600</nanos>
+  <sequence>133</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:36.421263200Z</date>
+  <millis>1718539416421</millis>
+  <nanos>263200</nanos>
+  <sequence>134</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:03:55.568553400Z</date>
+  <millis>1718539435568</millis>
+  <nanos>553400</nanos>
+  <sequence>135</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:07.208473500Z</date>
+  <millis>1718540107208</millis>
+  <nanos>473500</nanos>
+  <sequence>138</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:07.215367Z</date>
+  <millis>1718540107215</millis>
+  <nanos>367000</nanos>
+  <sequence>139</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:07.215367Z</date>
+  <millis>1718540107215</millis>
+  <nanos>367000</nanos>
+  <sequence>140</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:07.218554900Z</date>
+  <millis>1718540107218</millis>
+  <nanos>554900</nanos>
+  <sequence>141</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:07.220482800Z</date>
+  <millis>1718540107220</millis>
+  <nanos>482800</nanos>
+  <sequence>142</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:07.220482800Z</date>
+  <millis>1718540107220</millis>
+  <nanos>482800</nanos>
+  <sequence>143</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:07.223987400Z</date>
+  <millis>1718540107223</millis>
+  <nanos>987400</nanos>
+  <sequence>144</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:07.227746500Z</date>
+  <millis>1718540107227</millis>
+  <nanos>746500</nanos>
+  <sequence>145</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:09.169547800Z</date>
+  <millis>1718540109169</millis>
+  <nanos>547800</nanos>
+  <sequence>146</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:09.173599400Z</date>
+  <millis>1718540109173</millis>
+  <nanos>599400</nanos>
+  <sequence>147</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:09.175608900Z</date>
+  <millis>1718540109175</millis>
+  <nanos>608900</nanos>
+  <sequence>148</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:09.175608900Z</date>
+  <millis>1718540109175</millis>
+  <nanos>608900</nanos>
+  <sequence>149</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:09.175608900Z</date>
+  <millis>1718540109175</millis>
+  <nanos>608900</nanos>
+  <sequence>150</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:09.182501900Z</date>
+  <millis>1718540109182</millis>
+  <nanos>501900</nanos>
+  <sequence>151</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:09.182501900Z</date>
+  <millis>1718540109182</millis>
+  <nanos>501900</nanos>
+  <sequence>152</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:09.185506500Z</date>
+  <millis>1718540109185</millis>
+  <nanos>506500</nanos>
+  <sequence>153</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:10.420793500Z</date>
+  <millis>1718540110420</millis>
+  <nanos>793500</nanos>
+  <sequence>154</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:10.423501300Z</date>
+  <millis>1718540110423</millis>
+  <nanos>501300</nanos>
+  <sequence>155</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:10.426452400Z</date>
+  <millis>1718540110426</millis>
+  <nanos>452400</nanos>
+  <sequence>156</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:10.428590Z</date>
+  <millis>1718540110428</millis>
+  <nanos>590000</nanos>
+  <sequence>157</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:10.428590Z</date>
+  <millis>1718540110428</millis>
+  <nanos>590000</nanos>
+  <sequence>158</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:10.432348Z</date>
+  <millis>1718540110432</millis>
+  <nanos>348000</nanos>
+  <sequence>159</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:10.434667900Z</date>
+  <millis>1718540110434</millis>
+  <nanos>667900</nanos>
+  <sequence>160</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:10.435760700Z</date>
+  <millis>1718540110435</millis>
+  <nanos>760700</nanos>
+  <sequence>161</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:12.565621600Z</date>
+  <millis>1718540112565</millis>
+  <nanos>621600</nanos>
+  <sequence>162</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:12.565621600Z</date>
+  <millis>1718540112565</millis>
+  <nanos>621600</nanos>
+  <sequence>163</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:12.570452700Z</date>
+  <millis>1718540112570</millis>
+  <nanos>452700</nanos>
+  <sequence>164</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:12.572469700Z</date>
+  <millis>1718540112572</millis>
+  <nanos>469700</nanos>
+  <sequence>165</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:12.574446Z</date>
+  <millis>1718540112574</millis>
+  <nanos>446000</nanos>
+  <sequence>166</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:12.576335100Z</date>
+  <millis>1718540112576</millis>
+  <nanos>335100</nanos>
+  <sequence>167</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:12.576335100Z</date>
+  <millis>1718540112576</millis>
+  <nanos>335100</nanos>
+  <sequence>168</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:12.581322200Z</date>
+  <millis>1718540112581</millis>
+  <nanos>322200</nanos>
+  <sequence>169</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:22.996136500Z</date>
+  <millis>1718540122996</millis>
+  <nanos>136500</nanos>
+  <sequence>170</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:22.997205700Z</date>
+  <millis>1718540122997</millis>
+  <nanos>205700</nanos>
+  <sequence>171</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:22.999377200Z</date>
+  <millis>1718540122999</millis>
+  <nanos>377200</nanos>
+  <sequence>172</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:23.002538Z</date>
+  <millis>1718540123002</millis>
+  <nanos>538000</nanos>
+  <sequence>173</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:23.002538Z</date>
+  <millis>1718540123002</millis>
+  <nanos>538000</nanos>
+  <sequence>174</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:23.002538Z</date>
+  <millis>1718540123002</millis>
+  <nanos>538000</nanos>
+  <sequence>175</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:23.009514300Z</date>
+  <millis>1718540123009</millis>
+  <nanos>514300</nanos>
+  <sequence>176</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:23.012643300Z</date>
+  <millis>1718540123012</millis>
+  <nanos>643300</nanos>
+  <sequence>177</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:24.252282800Z</date>
+  <millis>1718540124252</millis>
+  <nanos>282800</nanos>
+  <sequence>178</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:24.255626400Z</date>
+  <millis>1718540124255</millis>
+  <nanos>626400</nanos>
+  <sequence>179</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:24.256924500Z</date>
+  <millis>1718540124256</millis>
+  <nanos>924500</nanos>
+  <sequence>180</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:24.261568900Z</date>
+  <millis>1718540124261</millis>
+  <nanos>568900</nanos>
+  <sequence>181</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:24.263842600Z</date>
+  <millis>1718540124263</millis>
+  <nanos>842600</nanos>
+  <sequence>182</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:24.266979800Z</date>
+  <millis>1718540124266</millis>
+  <nanos>979800</nanos>
+  <sequence>183</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:24.268853100Z</date>
+  <millis>1718540124268</millis>
+  <nanos>853100</nanos>
+  <sequence>184</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:24.271105200Z</date>
+  <millis>1718540124271</millis>
+  <nanos>105200</nanos>
+  <sequence>185</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:25.555138Z</date>
+  <millis>1718540125555</millis>
+  <nanos>138000</nanos>
+  <sequence>186</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:25.557680200Z</date>
+  <millis>1718540125557</millis>
+  <nanos>680200</nanos>
+  <sequence>187</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:25.561002800Z</date>
+  <millis>1718540125561</millis>
+  <nanos>2800</nanos>
+  <sequence>188</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:25.563391400Z</date>
+  <millis>1718540125563</millis>
+  <nanos>391400</nanos>
+  <sequence>189</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:27.085643Z</date>
+  <millis>1718540127085</millis>
+  <nanos>643000</nanos>
+  <sequence>190</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:27.090658800Z</date>
+  <millis>1718540127090</millis>
+  <nanos>658800</nanos>
+  <sequence>191</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:27.091894600Z</date>
+  <millis>1718540127091</millis>
+  <nanos>894600</nanos>
+  <sequence>192</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:27.091894600Z</date>
+  <millis>1718540127091</millis>
+  <nanos>894600</nanos>
+  <sequence>193</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:28.610972200Z</date>
+  <millis>1718540128610</millis>
+  <nanos>972200</nanos>
+  <sequence>194</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:28.613733100Z</date>
+  <millis>1718540128613</millis>
+  <nanos>733100</nanos>
+  <sequence>195</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:28.615414900Z</date>
+  <millis>1718540128615</millis>
+  <nanos>414900</nanos>
+  <sequence>196</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:28.617456900Z</date>
+  <millis>1718540128617</millis>
+  <nanos>456900</nanos>
+  <sequence>197</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:30.973069900Z</date>
+  <millis>1718540130973</millis>
+  <nanos>69900</nanos>
+  <sequence>198</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:30.977036400Z</date>
+  <millis>1718540130977</millis>
+  <nanos>36400</nanos>
+  <sequence>199</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:30.977036400Z</date>
+  <millis>1718540130977</millis>
+  <nanos>36400</nanos>
+  <sequence>200</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:15:30.980341500Z</date>
+  <millis>1718540130980</millis>
+  <nanos>341500</nanos>
+  <sequence>201</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:16:52.953404100Z</date>
+  <millis>1718540212953</millis>
+  <nanos>404100</nanos>
+  <sequence>202</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField73CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:17:43.627321900Z</date>
+  <millis>1718540263627</millis>
+  <nanos>321900</nanos>
+  <sequence>203</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:17:51.862088100Z</date>
+  <millis>1718540271862</millis>
+  <nanos>88100</nanos>
+  <sequence>204</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:18:13.793107400Z</date>
+  <millis>1718540293793</millis>
+  <nanos>107400</nanos>
+  <sequence>205</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:29.473267Z</date>
+  <millis>1718540849473</millis>
+  <nanos>267000</nanos>
+  <sequence>206</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:29.474196600Z</date>
+  <millis>1718540849474</millis>
+  <nanos>196600</nanos>
+  <sequence>207</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:29.475255600Z</date>
+  <millis>1718540849475</millis>
+  <nanos>255600</nanos>
+  <sequence>208</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:29.476247600Z</date>
+  <millis>1718540849476</millis>
+  <nanos>247600</nanos>
+  <sequence>209</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:29.476875400Z</date>
+  <millis>1718540849476</millis>
+  <nanos>875400</nanos>
+  <sequence>210</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:29.476875400Z</date>
+  <millis>1718540849476</millis>
+  <nanos>875400</nanos>
+  <sequence>211</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:29.478999Z</date>
+  <millis>1718540849478</millis>
+  <nanos>999000</nanos>
+  <sequence>212</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:29.479884900Z</date>
+  <millis>1718540849479</millis>
+  <nanos>884900</nanos>
+  <sequence>213</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:32.196174800Z</date>
+  <millis>1718540852196</millis>
+  <nanos>174800</nanos>
+  <sequence>214</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:32.196174800Z</date>
+  <millis>1718540852196</millis>
+  <nanos>174800</nanos>
+  <sequence>215</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:32.197205700Z</date>
+  <millis>1718540852197</millis>
+  <nanos>205700</nanos>
+  <sequence>216</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:32.198179700Z</date>
+  <millis>1718540852198</millis>
+  <nanos>179700</nanos>
+  <sequence>217</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:32.198179700Z</date>
+  <millis>1718540852198</millis>
+  <nanos>179700</nanos>
+  <sequence>218</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:32.199179700Z</date>
+  <millis>1718540852199</millis>
+  <nanos>179700</nanos>
+  <sequence>219</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:32.199179700Z</date>
+  <millis>1718540852199</millis>
+  <nanos>179700</nanos>
+  <sequence>220</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:32.200179800Z</date>
+  <millis>1718540852200</millis>
+  <nanos>179800</nanos>
+  <sequence>221</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:33.123241400Z</date>
+  <millis>1718540853123</millis>
+  <nanos>241400</nanos>
+  <sequence>222</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:33.124242Z</date>
+  <millis>1718540853124</millis>
+  <nanos>242000</nanos>
+  <sequence>223</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:33.124242Z</date>
+  <millis>1718540853124</millis>
+  <nanos>242000</nanos>
+  <sequence>224</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:33.125242300Z</date>
+  <millis>1718540853125</millis>
+  <nanos>242300</nanos>
+  <sequence>225</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:33.125242300Z</date>
+  <millis>1718540853125</millis>
+  <nanos>242300</nanos>
+  <sequence>226</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:33.127309900Z</date>
+  <millis>1718540853127</millis>
+  <nanos>309900</nanos>
+  <sequence>227</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:33.127309900Z</date>
+  <millis>1718540853127</millis>
+  <nanos>309900</nanos>
+  <sequence>228</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:33.128321700Z</date>
+  <millis>1718540853128</millis>
+  <nanos>321700</nanos>
+  <sequence>229</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:37.505474800Z</date>
+  <millis>1718540857505</millis>
+  <nanos>474800</nanos>
+  <sequence>230</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:37.507844600Z</date>
+  <millis>1718540857507</millis>
+  <nanos>844600</nanos>
+  <sequence>231</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:37.509220500Z</date>
+  <millis>1718540857509</millis>
+  <nanos>220500</nanos>
+  <sequence>232</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:37.511393300Z</date>
+  <millis>1718540857511</millis>
+  <nanos>393300</nanos>
+  <sequence>233</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:37.515394Z</date>
+  <millis>1718540857515</millis>
+  <nanos>394000</nanos>
+  <sequence>234</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:37.522449500Z</date>
+  <millis>1718540857522</millis>
+  <nanos>449500</nanos>
+  <sequence>235</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:37.524452Z</date>
+  <millis>1718540857524</millis>
+  <nanos>452000</nanos>
+  <sequence>236</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:37.524452Z</date>
+  <millis>1718540857524</millis>
+  <nanos>452000</nanos>
+  <sequence>237</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:45.736386400Z</date>
+  <millis>1718540865736</millis>
+  <nanos>386400</nanos>
+  <sequence>238</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:45.738921800Z</date>
+  <millis>1718540865738</millis>
+  <nanos>921800</nanos>
+  <sequence>239</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:45.738921800Z</date>
+  <millis>1718540865738</millis>
+  <nanos>921800</nanos>
+  <sequence>240</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:45.740186400Z</date>
+  <millis>1718540865740</millis>
+  <nanos>186400</nanos>
+  <sequence>241</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:45.740186400Z</date>
+  <millis>1718540865740</millis>
+  <nanos>186400</nanos>
+  <sequence>242</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:45.741192Z</date>
+  <millis>1718540865741</millis>
+  <nanos>192000</nanos>
+  <sequence>243</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:45.742538700Z</date>
+  <millis>1718540865742</millis>
+  <nanos>538700</nanos>
+  <sequence>244</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:45.743547400Z</date>
+  <millis>1718540865743</millis>
+  <nanos>547400</nanos>
+  <sequence>245</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:47.667844400Z</date>
+  <millis>1718540867667</millis>
+  <nanos>844400</nanos>
+  <sequence>246</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:47.668850800Z</date>
+  <millis>1718540867668</millis>
+  <nanos>850800</nanos>
+  <sequence>247</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:47.671143800Z</date>
+  <millis>1718540867671</millis>
+  <nanos>143800</nanos>
+  <sequence>248</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:47.675473Z</date>
+  <millis>1718540867675</millis>
+  <nanos>473000</nanos>
+  <sequence>249</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:47.676470900Z</date>
+  <millis>1718540867676</millis>
+  <nanos>470900</nanos>
+  <sequence>250</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:47.676470900Z</date>
+  <millis>1718540867676</millis>
+  <nanos>470900</nanos>
+  <sequence>251</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:47.677964400Z</date>
+  <millis>1718540867677</millis>
+  <nanos>964400</nanos>
+  <sequence>252</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:47.681449600Z</date>
+  <millis>1718540867681</millis>
+  <nanos>449600</nanos>
+  <sequence>253</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:49.962399100Z</date>
+  <millis>1718540869962</millis>
+  <nanos>399100</nanos>
+  <sequence>254</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:49.965423200Z</date>
+  <millis>1718540869965</millis>
+  <nanos>423200</nanos>
+  <sequence>255</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:49.966925500Z</date>
+  <millis>1718540869966</millis>
+  <nanos>925500</nanos>
+  <sequence>256</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:49.968935500Z</date>
+  <millis>1718540869968</millis>
+  <nanos>935500</nanos>
+  <sequence>257</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:49.970937Z</date>
+  <millis>1718540869970</millis>
+  <nanos>937000</nanos>
+  <sequence>258</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:49.972309300Z</date>
+  <millis>1718540869972</millis>
+  <nanos>309300</nanos>
+  <sequence>259</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:49.974332500Z</date>
+  <millis>1718540869974</millis>
+  <nanos>332500</nanos>
+  <sequence>260</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:27:49.976331700Z</date>
+  <millis>1718540869976</millis>
+  <nanos>331700</nanos>
+  <sequence>261</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:28:32.039495700Z</date>
+  <millis>1718540912039</millis>
+  <nanos>495700</nanos>
+  <sequence>262</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:31:33.923746500Z</date>
+  <millis>1718541093923</millis>
+  <nanos>746500</nanos>
+  <sequence>263</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:31:54.787926200Z</date>
+  <millis>1718541114787</millis>
+  <nanos>926200</nanos>
+  <sequence>264</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:32:00.026386100Z</date>
+  <millis>1718541120026</millis>
+  <nanos>386100</nanos>
+  <sequence>265</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:33:25.730624400Z</date>
+  <millis>1718541205730</millis>
+  <nanos>624400</nanos>
+  <sequence>266</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:35:06.933275700Z</date>
+  <millis>1718541306933</millis>
+  <nanos>275700</nanos>
+  <sequence>267</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T12:35:15.052633400Z</date>
+  <millis>1718541315052</millis>
+  <nanos>633400</nanos>
+  <sequence>268</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToInvoice</class>
+  <method>jTextField72CaretUpdate</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-16T16:55:29.817326700Z</date>
+  <millis>1718556929817</millis>
+  <nanos>326700</nanos>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.ChangeProducts</class>
+  <method>addProductToTable</method>
+  <thread>28</thread>
+  <message>In aggregated query without GROUP BY, expression #3 of SELECT list contains nonaggregated column 'cctv_shop_db.stock.id'; this is incompatible with sql_mode=only_full_group_by</message>
+</record>
+<record>
+  <date>2024-06-16T17:22:08.878946300Z</date>
+  <millis>1718558528878</millis>
+  <nanos>946300</nanos>
+  <sequence>5</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.AddProductQuotation</class>
+  <method>check_stock</method>
+  <thread>28</thread>
+  <message>For input string: ""</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-18T07:18:46.700703800Z</date>
+  <millis>1718695126700</millis>
+  <nanos>703800</nanos>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.SelectDuplicateProduct</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>28</thread>
+  <message>setSelectedIndex: 8 out of bounds</message>
+</record>
+<record>
+  <date>2024-06-18T07:18:49.016480100Z</date>
+  <millis>1718695129016</millis>
+  <nanos>480100</nanos>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.SelectDuplicateProduct</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>28</thread>
+  <message>setSelectedIndex: 8 out of bounds</message>
+</record>
+<record>
+  <date>2024-06-18T07:18:57.325389900Z</date>
+  <millis>1718695137325</millis>
+  <nanos>389900</nanos>
+  <sequence>2</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.SelectDuplicateProduct</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>28</thread>
+  <message>setSelectedIndex: 8 out of bounds</message>
+</record>
+<record>
+  <date>2024-06-18T07:18:57.547321200Z</date>
+  <millis>1718695137547</millis>
+  <nanos>321200</nanos>
+  <sequence>3</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.SelectDuplicateProduct</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>28</thread>
+  <message>setSelectedIndex: 8 out of bounds</message>
+</record>
+<record>
+  <date>2024-06-18T07:19:02.743117100Z</date>
+  <millis>1718695142743</millis>
+  <nanos>117100</nanos>
+  <sequence>4</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.SelectDuplicateProduct</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>28</thread>
+  <message>setSelectedIndex: 8 out of bounds</message>
+</record>
+<record>
+  <date>2024-06-18T07:19:03.593371700Z</date>
+  <millis>1718695143593</millis>
+  <nanos>371700</nanos>
+  <sequence>5</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.SelectDuplicateProduct</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>28</thread>
+  <message>setSelectedIndex: 8 out of bounds</message>
+</record>
+<record>
+  <date>2024-06-18T07:19:18.015304800Z</date>
+  <millis>1718695158015</millis>
+  <nanos>304800</nanos>
+  <sequence>6</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.SelectDuplicateProduct</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>28</thread>
+  <message>setSelectedIndex: 8 out of bounds</message>
+</record>
+<record>
+  <date>2024-06-18T07:19:20.631835900Z</date>
+  <millis>1718695160631</millis>
+  <nanos>835900</nanos>
+  <sequence>7</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.SelectDuplicateProduct</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>28</thread>
+  <message>setSelectedIndex: 8 out of bounds</message>
+</record>
+<record>
+  <date>2024-06-18T07:19:20.851636900Z</date>
+  <millis>1718695160851</millis>
+  <nanos>636900</nanos>
+  <sequence>8</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.SelectDuplicateProduct</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>28</thread>
+  <message>setSelectedIndex: 8 out of bounds</message>
+</record>
+<record>
+  <date>2024-06-18T07:19:27.128602800Z</date>
+  <millis>1718695167128</millis>
+  <nanos>602800</nanos>
+  <sequence>9</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.SelectDuplicateProduct</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>28</thread>
+  <message>setSelectedIndex: 8 out of bounds</message>
+</record>
+<record>
+  <date>2024-06-18T07:20:52.958776Z</date>
+  <millis>1718695252958</millis>
+  <nanos>776000</nanos>
+  <sequence>10</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.SelectDuplicateProduct</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>28</thread>
+  <message>setSelectedIndex: 8 out of bounds</message>
+</record>
+<record>
+  <date>2024-06-18T07:20:55.456603700Z</date>
+  <millis>1718695255456</millis>
+  <nanos>603700</nanos>
+  <sequence>11</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.SelectDuplicateProduct</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>28</thread>
+  <message>setSelectedIndex: 8 out of bounds</message>
+</record>
+<record>
+  <date>2024-06-18T07:21:00.636738400Z</date>
+  <millis>1718695260636</millis>
+  <nanos>738400</nanos>
+  <sequence>12</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.SelectDuplicateProduct</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>28</thread>
+  <message>setSelectedIndex: 8 out of bounds</message>
+</record>
+<record>
+  <date>2024-06-18T07:21:05.079657Z</date>
+  <millis>1718695265079</millis>
+  <nanos>657000</nanos>
+  <sequence>13</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.SelectDuplicateProduct</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>28</thread>
+  <message>setSelectedIndex: 8 out of bounds</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-19T10:25:19.949030700Z</date>
+  <millis>1718792719949</millis>
+  <nanos>30700</nanos>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.SelectDuplicateProduct</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>28</thread>
+  <message>setSelectedIndex: 8 out of bounds</message>
+</record>
+<record>
+  <date>2024-06-19T10:25:59.395936300Z</date>
+  <millis>1718792759395</millis>
+  <nanos>936300</nanos>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.AddProductToGRN</class>
+  <method>loadProductData</method>
+  <thread>28</thread>
+  <message>setSelectedIndex: 8 out of bounds</message>
+</record>
+<record>
+  <date>2024-06-19T10:26:29.788009700Z</date>
+  <millis>1718792789788</millis>
+  <nanos>9700</nanos>
+  <sequence>2</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.SelectDuplicateProduct</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>28</thread>
+  <message>setSelectedIndex: 8 out of bounds</message>
+</record>
+<record>
+  <date>2024-06-19T10:26:30.676431600Z</date>
+  <millis>1718792790676</millis>
+  <nanos>431600</nanos>
+  <sequence>3</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.SelectDuplicateProduct</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>28</thread>
+  <message>setSelectedIndex: 8 out of bounds</message>
+</record>
+<record>
+  <date>2024-06-19T10:26:31.549033Z</date>
+  <millis>1718792791549</millis>
+  <nanos>33000</nanos>
+  <sequence>4</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.SelectDuplicateProduct</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>28</thread>
+  <message>setSelectedIndex: 8 out of bounds</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-19T19:01:23.201101800Z</date>
+  <millis>1718823683201</millis>
+  <nanos>101800</nanos>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.SelectDuplicateProduct</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>28</thread>
+  <message>setSelectedIndex: 8 out of bounds</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-20T04:47:37.411073300Z</date>
+  <millis>1718858857411</millis>
+  <nanos>73300</nanos>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.SelectDuplicateProduct</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>28</thread>
+  <message>setSelectedIndex: 8 out of bounds</message>
+</record>
+<record>
+  <date>2024-06-20T04:47:39.359343200Z</date>
+  <millis>1718858859359</millis>
+  <nanos>343200</nanos>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.SelectDuplicateProduct</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>28</thread>
+  <message>setSelectedIndex: 8 out of bounds</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-20T07:42:22.105737300Z</date>
+  <millis>1718869342105</millis>
+  <nanos>737300</nanos>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainFrame.Login</class>
+  <method>buttonGradient1ActionPerformed</method>
+  <thread>28</thread>
+  <message>Cannot invoke "java.sql.Connection.createStatement()" because "Models.MySQL.connection" is null</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-07-04T11:30:02.537017900Z</date>
+  <millis>1720092602537</millis>
+  <nanos>17900</nanos>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.GrnHistoryDetails</class>
+  <method>loadDetails</method>
+  <thread>28</thread>
+  <message>Unparseable date: ""</message>
+</record>
+<record>
+  <date>2024-07-04T11:33:12.938130500Z</date>
+  <millis>1720092792938</millis>
+  <nanos>130500</nanos>
+  <sequence>2</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.GrnHistoryDetails</class>
+  <method>loadDetails</method>
+  <thread>28</thread>
+  <message>Unparseable date: ""</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-07-04T12:10:14.324430Z</date>
+  <millis>1720095014324</millis>
+  <nanos>430000</nanos>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.GrnHistoryDetails</class>
+  <method>loadDetails</method>
+  <thread>28</thread>
+  <message>Unparseable date: ""</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-07-04T12:19:43.105768700Z</date>
+  <millis>1720095583105</millis>
+  <nanos>768700</nanos>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.GrnHistoryDetails</class>
+  <method>loadDetails</method>
+  <thread>28</thread>
+  <message>Unparseable date: ""</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-07-04T14:49:51.724531200Z</date>
+  <millis>1720104591724</millis>
+  <nanos>531200</nanos>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.GRNHistory</class>
+  <method>loadTable</method>
+  <thread>28</thread>
+  <message>Column 'type' not found.</message>
+</record>
+<record>
+  <date>2024-07-04T14:50:01.249825100Z</date>
+  <millis>1720104601249</millis>
+  <nanos>825100</nanos>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.GRNHistory</class>
+  <method>loadTable</method>
+  <thread>28</thread>
+  <message>Column 'type' not found.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-07-04T15:53:58.477421200Z</date>
+  <millis>1720108438477</millis>
+  <nanos>421200</nanos>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.GRNHistory</class>
+  <method>loadTable</method>
+  <thread>28</thread>
+  <message>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`supplier_details`.`branch_name` LIKE '%a%' OR `supplier_details`.`contact_no` =' at line 1</message>
+</record>
+<record>
+  <date>2024-07-04T15:53:58.805054Z</date>
+  <millis>1720108438805</millis>
+  <nanos>54000</nanos>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.GRNHistory</class>
+  <method>loadTable</method>
+  <thread>28</thread>
+  <message>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`supplier_details`.`branch_name` LIKE '%ab%' OR `supplier_details`.`contact_no` ' at line 1</message>
+</record>
+<record>
+  <date>2024-07-04T15:53:59.069461200Z</date>
+  <millis>1720108439069</millis>
+  <nanos>461200</nanos>
+  <sequence>2</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.GRNHistory</class>
+  <method>loadTable</method>
+  <thread>28</thread>
+  <message>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`supplier_details`.`branch_name` LIKE '%abc%' OR `supplier_details`.`contact_no`' at line 1</message>
+</record>
+<record>
+  <date>2024-07-04T15:53:59.394188300Z</date>
+  <millis>1720108439394</millis>
+  <nanos>188300</nanos>
+  <sequence>3</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.GRNHistory</class>
+  <method>loadTable</method>
+  <thread>28</thread>
+  <message>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`supplier_details`.`branch_name` LIKE '%abcd%' OR `supplier_details`.`contact_no' at line 1</message>
+</record>
+<record>
+  <date>2024-07-04T15:54:00.404192600Z</date>
+  <millis>1720108440404</millis>
+  <nanos>192600</nanos>
+  <sequence>4</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.GRNHistory</class>
+  <method>loadTable</method>
+  <thread>28</thread>
+  <message>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`supplier_details`.`branch_name` LIKE '%abcde%' OR `supplier_details`.`contact_n' at line 1</message>
+</record>
+<record>
+  <date>2024-07-04T15:54:01.588522900Z</date>
+  <millis>1720108441588</millis>
+  <nanos>522900</nanos>
+  <sequence>5</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.GRNHistory</class>
+  <method>loadTable</method>
+  <thread>28</thread>
+  <message>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`supplier_details`.`branch_name` LIKE '%abcder%' OR `supplier_details`.`contact_' at line 1</message>
+</record>
+<record>
+  <date>2024-07-04T15:54:05.320157500Z</date>
+  <millis>1720108445320</millis>
+  <nanos>157500</nanos>
+  <sequence>6</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.GRNHistory</class>
+  <method>loadTable</method>
+  <thread>28</thread>
+  <message>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`supplier_details`.`branch_name` LIKE '%abcde%' OR `supplier_details`.`contact_n' at line 1</message>
+</record>
+<record>
+  <date>2024-07-04T15:54:09.871449600Z</date>
+  <millis>1720108449871</millis>
+  <nanos>449600</nanos>
+  <sequence>7</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.GRNHistory</class>
+  <method>loadTable</method>
+  <thread>28</thread>
+  <message>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`supplier_details`.`branch_name` LIKE '%abcde%' OR `supplier_details`.`contact_n' at line 1</message>
+</record>
+<record>
+  <date>2024-07-04T15:54:11.436120100Z</date>
+  <millis>1720108451436</millis>
+  <nanos>120100</nanos>
+  <sequence>8</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.GRNHistory</class>
+  <method>loadTable</method>
+  <thread>28</thread>
+  <message>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`supplier_details`.`branch_name` LIKE '%abcde%' OR `supplier_details`.`contact_n' at line 1</message>
+</record>
+<record>
+  <date>2024-07-04T15:54:14.631515700Z</date>
+  <millis>1720108454631</millis>
+  <nanos>515700</nanos>
+  <sequence>9</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.GRNHistory</class>
+  <method>loadTable</method>
+  <thread>28</thread>
+  <message>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`supplier_details`.`branch_name` LIKE '%abcde%' OR `supplier_details`.`contact_n' at line 1</message>
+</record>
+<record>
+  <date>2024-07-04T15:54:20.329951200Z</date>
+  <millis>1720108460329</millis>
+  <nanos>951200</nanos>
+  <sequence>10</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.GRNHistory</class>
+  <method>loadTable</method>
+  <thread>28</thread>
+  <message>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`supplier_details`.`branch_name` LIKE '%abcd%' OR `supplier_details`.`contact_no' at line 1</message>
+</record>
+<record>
+  <date>2024-07-04T15:54:20.494205600Z</date>
+  <millis>1720108460494</millis>
+  <nanos>205600</nanos>
+  <sequence>11</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.GRNHistory</class>
+  <method>loadTable</method>
+  <thread>28</thread>
+  <message>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`supplier_details`.`branch_name` LIKE '%abc%' OR `supplier_details`.`contact_no`' at line 1</message>
+</record>
+<record>
+  <date>2024-07-04T15:54:20.654386600Z</date>
+  <millis>1720108460654</millis>
+  <nanos>386600</nanos>
+  <sequence>12</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.GRNHistory</class>
+  <method>loadTable</method>
+  <thread>28</thread>
+  <message>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`supplier_details`.`branch_name` LIKE '%ab%' OR `supplier_details`.`contact_no` ' at line 1</message>
+</record>
+<record>
+  <date>2024-07-04T15:54:20.825727400Z</date>
+  <millis>1720108460825</millis>
+  <nanos>727400</nanos>
+  <sequence>13</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.MainPanel.GRNHistory</class>
+  <method>loadTable</method>
+  <thread>28</thread>
+  <message>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`supplier_details`.`branch_name` LIKE '%a%' OR `supplier_details`.`contact_no` =' at line 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-07-04T15:59:44.949234900Z</date>
+  <millis>1720108784949</millis>
+  <nanos>234900</nanos>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.GrnHistoryDetails</class>
+  <method>loadDetails</method>
+  <thread>28</thread>
+  <message>Unparseable date: ""</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-07-04T17:17:20.199519900Z</date>
+  <millis>1720113440199</millis>
+  <nanos>519900</nanos>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.GrnHistoryDetails</class>
+  <method>loadDetails</method>
+  <thread>28</thread>
+  <message>Unparseable date: ""</message>
+</record>
+<record>
+  <date>2024-07-04T17:18:01.320416100Z</date>
+  <millis>1720113481320</millis>
+  <nanos>416100</nanos>
+  <sequence>2</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.GrnHistoryDetails</class>
+  <method>loadDetails</method>
+  <thread>28</thread>
+  <message>Unparseable date: ""</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-07-04T19:50:30.700670200Z</date>
+  <millis>1720122630700</millis>
+  <nanos>670200</nanos>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>GUI.DialogBox.GrnHistoryDetails</class>
+  <method>loadDetails</method>
+  <thread>28</thread>
+  <message>Unparseable date: ""</message>
+</record>

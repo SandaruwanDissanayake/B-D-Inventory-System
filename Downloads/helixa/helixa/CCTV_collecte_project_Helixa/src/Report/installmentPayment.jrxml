@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.20.5.final using JasperReports Library version 6.20.5-3efcf2e67f959db3888d79f73dde2dbd7acb4f8e  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="installmentPayment" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="d466b21a-8a5c-4f54-80f9-57f383588111">
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="One Empty Record"/>
+	<parameter name="name" class="java.lang.String"/>
+	<parameter name="addressLine1" class="java.lang.String"/>
+	<parameter name="addressLine2" class="java.lang.String"/>
+	<parameter name="date" class="java.lang.String"/>
+	<parameter name="invoiceNumber" class="java.lang.String"/>
+	<parameter name="mobileNumber" class="java.lang.String"/>
+	<parameter name="totalAmount" class="java.lang.String"/>
+	<parameter name="paidAmount" class="java.lang.String"/>
+	<parameter name="dueAmount" class="java.lang.String"/>
+	<parameter name="message" class="java.lang.String"/>
+	<queryString>
+		<![CDATA[]]>
+	</queryString>
+	<field name="installmentName" class="java.lang.String"/>
+	<field name="installmentAmount" class="java.lang.String"/>
+	<field name="installmentDate" class="java.lang.String"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="275" splitType="Stretch">
+			<image>
+				<reportElement x="0" y="0" width="555" height="150" uuid="fa9ee0f7-6261-42c2-a444-ce5d04d9db50"/>
+				<imageExpression><![CDATA["/src/Resources/image.png"]]></imageExpression>
+			</image>
+			<staticText>
+				<reportElement x="0" y="153" width="100" height="30" uuid="0074f2f1-c125-41b1-85fa-faf47f8ddea3"/>
+				<textElement>
+					<font size="16" isBold="true"/>
+				</textElement>
+				<text><![CDATA[To :]]></text>
+			</staticText>
+			<textField>
+				<reportElement x="0" y="183" width="250" height="20" uuid="623f15fe-e31c-45c0-8c57-99e7ac247261"/>
+				<textElement>
+					<font size="14"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{name}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="0" y="203" width="250" height="20" uuid="510dbaf1-7f66-4e6b-abe0-19dfaff18290"/>
+				<textElement>
+					<font size="14"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{addressLine1}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="0" y="223" width="250" height="20" uuid="d830090d-d86c-4557-9652-f67333fb58b7"/>
+				<textElement>
+					<font size="14"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{addressLine2}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="0" y="244" width="250" height="20" uuid="13d3179a-0dfa-4b85-991d-efde5e7d615b"/>
+				<textElement>
+					<font size="14"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{mobileNumber}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="333" y="153" width="220" height="30" uuid="45217903-a5fb-49e3-906f-a76734c68979"/>
+				<textElement textAlignment="Right">
+					<font size="19" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Installment Payment]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="294" y="197" width="120" height="20" uuid="f53345f9-c84e-4f78-b827-14c0e70a3456"/>
+				<textElement textAlignment="Right">
+					<font size="14"/>
+				</textElement>
+				<text><![CDATA[Date :]]></text>
+			</staticText>
+			<textField>
+				<reportElement x="419" y="197" width="134" height="20" uuid="98811e7f-ebbe-4fc2-b4d9-b7b69e994485"/>
+				<textElement textAlignment="Left">
+					<font size="14" isBold="true"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{date}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="419" y="219" width="133" height="20" uuid="21b2cc75-236e-444f-a80b-389cf59b97f0"/>
+				<textElement textAlignment="Left">
+					<font size="14" isBold="true"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{invoiceNumber}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="294" y="219" width="120" height="20" uuid="89818bd2-ce98-4d14-8090-cf866b27b7e2"/>
+				<textElement textAlignment="Right">
+					<font size="14"/>
+				</textElement>
+				<text><![CDATA[Invoice Number :]]></text>
+			</staticText>
+		</band>
+	</title>
+	<pageHeader>
+		<band splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="35" splitType="Stretch">
+			<rectangle>
+				<reportElement x="0" y="1" width="558" height="30" forecolor="#FFFFFF" backcolor="#05EAFF" uuid="9edfb6f5-de14-4242-ad8e-69dc688137b3"/>
+			</rectangle>
+			<staticText>
+				<reportElement x="0" y="1" width="40" height="30" uuid="a64985f8-2c0e-4024-b7e8-63cefd92a802">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="f9610969-4217-4412-80dd-535523d0db87"/>
+				</reportElement>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font size="16" isBold="true"/>
+				</textElement>
+				<text><![CDATA[#]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="250" y="0" width="86" height="30" uuid="20b43d8c-e503-4b5a-8438-5573f35c30b8">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="be2ae727-0db7-4102-b514-58934e281232"/>
+				</reportElement>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font size="16" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Payment]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="440" y="2" width="54" height="30" uuid="61d0ef67-7513-4ccf-b625-fc9a884677b3">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="82512111-5f32-4d6c-b390-415754ae008d"/>
+				</reportElement>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font size="16" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Date]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="50" splitType="Stretch">
+			<line>
+				<reportElement x="0" y="35" width="555" height="1" uuid="11a3259c-8e5e-451a-ad7b-ab2d4bbc620f"/>
+			</line>
+			<textField>
+				<reportElement x="0" y="0" width="220" height="30" uuid="d02bf3b2-faaf-4663-9e63-77c18f13eac9">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="1c4d02c6-3c54-4731-9537-83d147cfd668"/>
+				</reportElement>
+				<textElement verticalAlignment="Middle">
+					<font size="14"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{installmentName}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="227" y="0" width="153" height="30" uuid="2b59d09e-e6d1-4dc8-a9e2-5df31cd71862">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="4adf672f-b761-4ef8-9e9a-cbf3d3c77c54"/>
+				</reportElement>
+				<textElement verticalAlignment="Middle">
+					<font size="14"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{installmentAmount}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="400" y="0" width="140" height="30" uuid="e04d0b8d-e885-453b-9583-c6d5e8bf5bd5">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="14f1062b-aa65-4fe6-b224-30a054a16094"/>
+				</reportElement>
+				<textElement verticalAlignment="Middle">
+					<font size="14"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{installmentDate}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="3" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="156" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="121" width="280" height="30" uuid="3d575e5b-711c-485d-9f0f-f3a41809579f"/>
+				<textElement textAlignment="Left" verticalAlignment="Middle"/>
+				<text><![CDATA[Do you have any inquiry please contact us. ( 0777 248 567 )]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="294" y="121" width="259" height="30" forecolor="#1B7ECF" uuid="4566c795-0ecd-4b48-b5e3-ea5f9dad8ae1"/>
+				<textElement textAlignment="Right" verticalAlignment="Middle"/>
+				<text><![CDATA[A Software by Helixaa Inc. (www.helixaa.com)]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="348" y="11" width="100" height="25" uuid="b349b7be-b324-4f20-bffd-b4e56716a031"/>
+				<textElement textAlignment="Right" verticalAlignment="Middle">
+					<font size="14"/>
+				</textElement>
+				<text><![CDATA[Total Amount :]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="348" y="42" width="100" height="25" uuid="903cca2b-b8df-4a49-99b3-0d5b289d6faf"/>
+				<textElement textAlignment="Right" verticalAlignment="Middle">
+					<font size="14"/>
+				</textElement>
+				<text><![CDATA[Paid Amount :]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="348" y="74" width="100" height="25" uuid="05533c75-87a5-469b-abec-a6bd9dc95f45"/>
+				<textElement textAlignment="Right" verticalAlignment="Middle">
+					<font size="14"/>
+				</textElement>
+				<text><![CDATA[Due Amount :]]></text>
+			</staticText>
+			<textField>
+				<reportElement x="452" y="11" width="100" height="25" uuid="a4641338-e60e-40e4-a0c3-5d0b79000e14"/>
+				<textElement textAlignment="Right" verticalAlignment="Middle">
+					<font size="12"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{totalAmount}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="452" y="42" width="100" height="25" uuid="0ad275d5-ef1f-42b9-a3a9-957b243963bf"/>
+				<textElement textAlignment="Right" verticalAlignment="Middle">
+					<font size="12"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{paidAmount}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="452" y="71" width="100" height="28" forecolor="#E32320" uuid="a745f78e-4ae1-4b8c-8320-1736590d3e02"/>
+				<textElement textAlignment="Right" verticalAlignment="Middle">
+					<font size="12"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{dueAmount}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="0" y="39" width="330" height="60" forecolor="#0D1E66" uuid="82660083-274a-454b-b281-03afe8a8432a"/>
+				<textElement textAlignment="Justified" verticalAlignment="Middle">
+					<font size="14"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{message}]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageFooter>
+	<summary>
+		<band height="4" splitType="Stretch"/>
+	</summary>
+</jasperReport>
